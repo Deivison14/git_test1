@@ -1,5 +1,7 @@
 Ola mundo
 Deivison Correa Lima
+Bem vindo ao projeto palomakoba
 vamos aprender fundamentos do git
 claro
 teste
+
